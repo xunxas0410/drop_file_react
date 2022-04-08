@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/drop_file_react/static/css/main.7d496de9.css",
+    "main.js": "/drop_file_react/static/js/main.b704b2ff.js",
+    "index.html": "/drop_file_react/index.html",
+    "main.7d496de9.css.map": "/drop_file_react/static/css/main.7d496de9.css.map",
+    "main.b704b2ff.js.map": "/drop_file_react/static/js/main.b704b2ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d496de9.css",
+    "static/js/main.b704b2ff.js"
+  ]
+}
